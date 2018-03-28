@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchShow</string>
+    <string name="api_key">0264060345ce4c7277e24f7be17300b6</string>
+    <string name="api_language">language=en-US</string>
+    <string name="api_image_base">https://image.tmdb.org/t/p/original</string>
+    <string name="just_a_test">TextView Log Log Log Log Log Log</string>
+</resources>
